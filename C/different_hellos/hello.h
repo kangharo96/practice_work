@@ -1,0 +1,6 @@
+#if !defined(HELLO_H)
+#define HELLO_H
+
+void say_hello(void);
+
+#endif
